@@ -9141,7 +9141,7 @@ td {
 }
 
 .background {
-  background-image: url("../images/serve.jpg");
+  background-image: url("//github.com/karina462/bootstrap_project/blob/master/images/serve.jpg");
   background-repeat: repeat;
 }
 
@@ -9180,7 +9180,7 @@ td {
 }
 
 .bg_image {
-  background-image: url("images/bg_about.jpg");
+  background-image: url("../images/bg_about.jpg");
   background-size: cover;
   height: 600px;
 }
