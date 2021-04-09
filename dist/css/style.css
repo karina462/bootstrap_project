@@ -9141,7 +9141,7 @@ td {
 }
 
 .background {
-  background-image: url("//github.com/karina462/bootstrap_project/blob/master/images/serve.jpg");
+  background-image: url("https://github.com/karina462/bootstrap_project/blob/master/images/serve.jpg");
   background-repeat: repeat;
 }
 
@@ -9180,7 +9180,7 @@ td {
 }
 
 .bg_image {
-  background-image: url("../images/bg_about.jpg");
+  background-image: url("https://bootstrap_project/images/bg_about.jpg");
   background-size: cover;
   height: 600px;
 }
@@ -9208,7 +9208,7 @@ td {
 }
 
 .background_menu {
-  background-image: url("images/menu_new.jpg");
+  background-image: url("../images/menu_new.jpg");
   background-size: cover;
   background-repeat: repeat-x;
 }
