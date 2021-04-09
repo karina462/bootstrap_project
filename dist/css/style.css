@@ -9074,7 +9074,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .login_bg {
-  background-image: url("F:/bootstrap/assign_2/images/menu_new.jpg");
+  background-image: url("../images/menu_new.jpg");
   background-size: cover;
   background-repeat: repeat-x;
 }
@@ -9141,7 +9141,7 @@ td {
 }
 
 .background {
-  background-image: url("F:/bootstrap/assign_2/images/serve.jpg");
+  background-image: url("../images/serve.jpg");
   background-repeat: repeat;
 }
 
