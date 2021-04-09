@@ -9075,6 +9075,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .login_bg {
   background-image: url("../images/menu_new.jpg");
+  background-color: burlywood;
   background-size: cover;
   background-repeat: repeat-x;
 }
