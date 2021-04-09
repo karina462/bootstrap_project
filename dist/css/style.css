@@ -9211,6 +9211,7 @@ td {
 
 .background_menu {
   background-image: url("../../images/menu_new.jpg");
+  background-color: burlywood;
   background-size: cover;
   background-repeat: repeat-x;
 }
