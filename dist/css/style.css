@@ -9180,7 +9180,7 @@ td {
 }
 
 .bg_image {
-  background-image: url("F:/bootstrap/assign_2/images/bg_about.jpg");
+  background-image: url("images/bg_about.jpg");
   background-size: cover;
   height: 600px;
 }
@@ -9208,7 +9208,7 @@ td {
 }
 
 .background_menu {
-  background-image: url("F:/bootstrap/assign_2/images/menu_new.jpg");
+  background-image: url("images/menu_new.jpg");
   background-size: cover;
   background-repeat: repeat-x;
 }
@@ -9249,7 +9249,7 @@ td {
 }
 
 .sub_menu {
-  background-image: url("F:/bootstrap/assign_2/images/sub_menu.jpg");
+  background-image: url("images/sub_menu.jpg");
   color: white;
   font-size: 20px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
