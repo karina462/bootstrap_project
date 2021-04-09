@@ -9181,6 +9181,7 @@ td {
 
 .bg_image {
   background-image: url("https://github.com/karina462/bootstrap_project/blob/afcee76d2e25f0fb57a6131424106785ff901fff/images/bg_about.jpg");
+  background-color: yellowgreen;
   background-size: cover;
   height: 600px;
 }
