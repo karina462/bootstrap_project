@@ -1,0 +1,25 @@
+.bg_image{
+    background-image: $bg_about;
+    background-size: cover;
+    height: 600px;
+    .text_muted{
+        margin: 150px;
+        color: blue;
+        text-shadow: 2px 2px $primary_color;
+    }
+    .about_head{
+        color: $primary_color;
+        font-weight: bold;
+        margin: 30px;
+    }
+
+    .lead{
+        width: 400px;
+        margin: 30px;
+        color: $primary_color;
+        font-size: 20px;
+        font-weight: 100;
+        font-family:$font_cursive;
+        text-shadow: 1px 1px grey;
+    }
+}

@@ -1,0 +1,86 @@
+.background_menu {
+  background-image: url("F:/bootstrap/assign_2/images/menu_new.jpg");
+  background-size: cover;
+  background-repeat: repeat-x;
+}
+
+.restro_menu {
+  text-align: center;
+  font-size: 44px;
+  color: white;
+  text-shadow: 1px 1px red;
+  padding-top: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.sub_top {
+  position: absolute;
+  top: -90px;
+  right: -22px;
+}
+
+@media screen and (max-width: 1400px) {
+  .sub_top {
+    display: none;
+  }
+}
+
+.sub_bottom {
+  margin-top: -20px;
+}
+
+@media screen and (max-width: 1400px) {
+  .sub_bottom {
+    display: none;
+  }
+}
+
+.img_menu {
+  margin-top: -10px;
+}
+
+.sub_menu {
+  background-image: url("F:/bootstrap/assign_2/images/sub_menu.jpg");
+  color: white;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+}
+
+.sub_menu .menu_content {
+  color: black;
+  text-decoration: none;
+  font-size: 26px;
+  text-shadow: 1px 1px red;
+  font-weight: bold;
+}
+
+.sub_menu .menu_content:hover {
+  color: rgba(255, 68, 0, 0.836);
+  text-shadow: 1px 1px red;
+  font-weight: bold;
+}
+
+.sub_menu .border_btm {
+  border-bottom: 2px solid white;
+}
+
+.sub_menu .time_details h3, .sub_menu .call_details h3 {
+  color: rgba(255, 68, 0, 0.836);
+  font-weight: bold;
+  text-shadow: 1px 1px black;
+}
+
+.sub_menu .time_details p, .sub_menu .call_details p {
+  white-space: pre-line;
+  color: black;
+  text-shadow: 1px 1px red;
+}
+
+@media screen and (max-width: 375px) {
+  .sub_menu {
+    height: 500px;
+    overflow: scroll;
+  }
+}
+/*# sourceMappingURL=menu.css.map */

@@ -1,0 +1,37 @@
+.background{
+    background-image: $bg_serve;
+    background-repeat: repeat;
+    
+}
+
+.service{
+    color: grey;
+    text-align: center;
+    text-shadow: 2px 2px $primary_color;
+    padding: 15px 15px;
+}
+
+.border_btn{
+    text-justify: center;
+    height: 40px;
+    margin: -20px;
+    width: 170px;
+    background-color: green;
+    color: white;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: $font_cursive;
+}
+
+.card{
+    border-radius: 30px;
+    .card-img-top{
+        border-radius: 30px;
+        height: 250px;
+    }
+}
+.card-text{
+    padding: 10px;
+    font-family: $font_cursive;
+    text-align: center;
+}
